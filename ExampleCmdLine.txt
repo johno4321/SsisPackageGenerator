@@ -1,0 +1,7 @@
+GeneratorTool RmsImport ..\..\..\src\Import\SsisPackages\ImportRms\ImportPortfolio.dtsx "Provider=SQLOLEDB.1;Data Source=DUB-RMSDB01;Initial Catalog=EDM_Dev_v10_PreRelease;Integrated Security=SSPI;" "Provider=SQLOLEDB.1;Data Source=DUB-LORANDEV01\DEVL;Initial Catalog=DorisStaging;Integrated Security=SSPI;" "Server=DUB-LORANDEV01\DEVL;Database=DorisStaging;Trusted_Connection=yes;" RmsStaging
+
+ImportPortfolioPackagePath
+ImportRunId
+PortfolioIds
+RmsConnectionString
+StagingConnectionString
